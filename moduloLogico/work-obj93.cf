@@ -1,0 +1,7 @@
+v 4
+file . "modulo_logico_tb.vhdl" "51b22e7168a940def0dc4ba8f2cf1eb007c6ab82" "20251107175503.733":
+  entity modulo_logico_tb at 2( 1) + 0 on 15;
+  architecture behavior of modulo_logico_tb at 9( 128) + 0 on 16;
+file . "modulo_logico.vhdl" "e5eaf7b8a6918211902557d29e3affbcf1fba31f" "20251107174938.015":
+  entity modulo_logico at 2( 32) + 0 on 13;
+  architecture behavioral of modulo_logico at 16( 491) + 0 on 14;
